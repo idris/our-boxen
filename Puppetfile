@@ -33,7 +33,7 @@ github "boxen", "3.4.2"
 
 # Support for hiera data in modules
 
-github "module-data", "0.0.3.dgoodlad1", :repo => "dgoodlad/puppet-module-data"
+github "module-data", "0.0.3", :repo => "ripienaar/puppet-module-data"
 
 # Core modules for a basic development environment. You can replace
 # some/most of these if you want, but it's not recommended.
